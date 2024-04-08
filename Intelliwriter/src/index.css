@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ .herosection{
+background: rgb(113,91,240);
+background: linear-gradient(90deg, rgba(113,91,240,1) 0%, rgba(224,132,135,1) 100%);
+
+}
+.button_hero{
+    background: linear-gradient(93.05deg, #FF66C4 5.8%, rgba(242, 74, 177, 0) 98.1%);
+}
+.second{
+    background-image: url(./assets/sec2main.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.about_but{
+    background: linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%);
+
+}
+.about_but1{
+    background: linear-gradient(93.05deg, #FF66C4 5.8%, rgba(242, 74, 177, 0) 98.1%);
+
+
+}
+.choose{
+    /* background-image: url(./assets/choose.png); */
+    /* background-position: center; */
+    /* background-size: contain; */
+    /* background-repeat: no-repeat; */
+    height: max-content;
+    /* padding: 200px 0px; */
+    /* width: 1690px; */
+}
+.borders{
+    /* padding: 20px 50px;
+    border-image-slice: 1;
+    border-radius: 100px; */
+    /* border: 1px solid; */
+    
+    
+}
+
+.img_banner{
+    background-image: url(./assets/banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.but_work{
+    background: linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%);
+
+}
+.star_color
+{
+    color: #F17c20;
+}
+.cardreadmore{
+    background: -webkit-linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: underline;
+    /* background: linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%); */
+}
+.bg_image{
+    background-image: url(../assets/profilepic1);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Insight{
+    background-image: url(./assets/insight.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sub_but{
+    background: linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%);
+}
